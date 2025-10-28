@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <a href="https://github.com/Jegan-005" target="_blank">Jegan S</a></h1>
 
 <p align="center">
-  🎓 Second-Year <b>Computer Science and Business Systems</b> Student <br>
+  🎓 Third-Year <b>Computer Science and Business Systems</b> Student <br>
   💻 Passionate about building efficient, scalable, and user-focused solutions.
 </p>
 
