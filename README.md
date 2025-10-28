@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Third-Year <b>Computer Science and Business Systems</b> Student <br>
-  💻 Passionate about building efficient, scalable, and user-focused solutions.
+  💻 Passionate about building efficient, scalable, and user-focused software solutions.
 </p>
 
 ---
@@ -47,7 +47,7 @@
   <a href="https://github.com/Jegan-005">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="#">
+  <a href="https://codolio.com/profile/jegan_">
     <img src="https://img.shields.io/badge/Codolio-000000.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/>
   </a>
 </p>
