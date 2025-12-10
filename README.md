@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <a href="https://github.com/Jegan-005" target="_blank">Jegan S</a></h1>
+<h1 align="center"> I'm <a href="https://github.com/Jegan-005" target="_blank">Jegan S</a></h1>
 
 <p align="center">
   🎓 Third-Year <b>Computer Science and Business Systems</b> Student <br>
