@@ -24,6 +24,8 @@
 * Backend Development with Python
 * Database Management Systems
 * Cloud Basics
+* React.js
+* Express.js
 
 
 ## 🧠 About Me
