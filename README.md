@@ -10,7 +10,7 @@
 <p align="center">
   🎓 Third-Year <b>Computer Science and Business Systems</b> Student <br>
   💻 Passionate about building efficient, scalable, and user-focused software solutions. <br>
-  🚀 Aiming to blend <b>technology + governance</b> as a future civil servant.
+  🚀 Aiming to blend <b>technology</b>.
 </p>
 
 ---
