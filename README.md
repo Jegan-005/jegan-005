@@ -10,15 +10,12 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-<!-- 🌟 Short Intro -->
-
 <p align="center">
   🎓 Third-Year <b>Computer Science and Business Systems</b> Student <br>
   💻 Passionate about building efficient, scalable, and user-focused software solutions. <br>
   🚀 Aiming to blend <b>technology</b>.
 </p>
 
----
 
 ## 🌱 Currently Learning
 
@@ -28,7 +25,6 @@
 * Database Management Systems
 * Cloud Basics
 
----
 
 ## 🧠 About Me
 
@@ -38,7 +34,6 @@
 * 🧩 Strong problem-solving mindset
 * 🎯 Consistency is my superpower
 
----
 
 ## 💻 Tech Stack
 
@@ -61,7 +56,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
----
 
 ## 🌟 Featured Project
 
@@ -75,7 +69,6 @@ A modern, responsive furniture store website using **HTML, CSS, JavaScript**.
 * 🖼 Product Preview Page
 * 💳 Checkout Flow (Upcoming)
 
----
 
 ## 🐍 GitHub Contribution Snake
 
@@ -83,7 +76,6 @@ A modern, responsive furniture store website using **HTML, CSS, JavaScript**.
   <img src="https://raw.githubusercontent.com/Jegan-005/Jegan-005/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 
 ## 🏆 Trophies & Achievements
 
@@ -91,7 +83,6 @@ A modern, responsive furniture store website using **HTML, CSS, JavaScript**.
   <img src="https://github-profile-trophy.vercel.app/?username=Jegan-005&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
----
 
 ## ⚙️ GitHub Analytics
 
@@ -104,7 +95,6 @@ A modern, responsive furniture store website using **HTML, CSS, JavaScript**.
   <img src="https://komarev.com/ghpvc/?username=Jegan-005&style=for-the-badge&color=brightgreen" />
 </p>
 
----
 
 ## 🔥 Highlights
 
@@ -113,7 +103,6 @@ A modern, responsive furniture store website using **HTML, CSS, JavaScript**.
 * 📚 Continually improving coding skills
 * 🧠 Logical thinker & problem solver
 
----
 
 ## 📫 Connect With Me
 
