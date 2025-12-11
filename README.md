@@ -71,14 +71,6 @@ A modern, responsive furniture store website using **HTML, CSS, JavaScript**.
 * 🖼 Product Preview Page
 * 💳 Checkout Flow (Upcoming)
 
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jegan-005/Jegan-005/output/github-contribution-grid-snake.svg" />
-</p>
-
-
 ## 🏆 Trophies & Achievements
 
 <p align="center">
