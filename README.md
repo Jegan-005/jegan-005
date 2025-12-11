@@ -81,6 +81,10 @@ A modern, responsive furniture store website using **HTML, CSS, JavaScript**.
 ## ⚙️ GitHub Analytics
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jegan-005&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jegan-005&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jegan-005&layout=compact&theme=tokyonight" height="165" />
 </p>
