@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00E8FF&center=true&vCenter=true&width=800&lines=I'm+Jegan+S;Full-Stack+Developer+in+Progress;CSBS+Student+%7C+Tech+Explorer;Future+Civil+Servant;Always+Learning+%26+Growing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00E8FF&center=true&vCenter=true&width=800&lines=I'm+Jegan+S;Full-Stack+Developer+in+Progress;CSBS+Student+%7C+Tech+Explorer;Always+Learning+%26+Growing" />
 </h1>
 
 <p align="center">
@@ -21,7 +21,6 @@
 * Data Structures & Algorithms
 * Backend Development with Python
 * Database Management Systems
-* UI/UX Design
 * Cloud Basics
 
 ---
@@ -56,8 +55,6 @@
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
@@ -110,15 +107,7 @@ A modern, responsive furniture store website using **HTML, CSS, JavaScript**.
 * 🔧 Full-stack development journey
 * 📚 Continually improving coding skills
 * 🧠 Logical thinker & problem solver
-* 💪 Balancing UPSC aspirations with tech growth
 
----
-
-## ✨ Fun Facts
-
-* 🌙 My best ideas come at night
-* 🤝 I love helping others learn tech
-* 💭 Big dreamer + consistent worker
 
 ---
 
