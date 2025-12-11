@@ -74,9 +74,41 @@ A modern, responsive furniture store website using **HTML, CSS, JavaScript**.
 
 ## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jegan-005/Jegan-005/output/github-contribution-grid-snake.svg" />
-</p>
+name: Generate Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'   # runs every 6 hours
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Generate snake from contribution graph
+        uses: fabiospampinato/github-contribution-grid-snake-action@v1
+        with:
+          username: 'Jegan-005'
+          repo: 'Jegan-005'
+          path: 'output/github-contribution-grid-snake.svg'
+          # optionally set cols/rows/scale if supported by action
+          
+      - name: Commit SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/github-contribution-grid-snake.svg || true
+          git commit -m "Update contribution snake" || echo "Nothing to commit"
+          git push origin HEAD:main || true
+
 
 ---
 
@@ -85,6 +117,9 @@ A modern, responsive furniture store website using **HTML, CSS, JavaScript**.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jegan-005&theme=radical&no-frame=true&row=1&column=6" />
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=Jegan-005&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jegan-005&layout=compact&theme=tokyonight" />
+
 
 ---
 
