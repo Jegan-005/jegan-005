@@ -102,18 +102,6 @@ A personal portfolio built with **HTML, CSS, JavaScript**, showcasing clean desi
 
 ---
 
-### 🪑 **Furniture Website** (Ongoing)
-
-A modern, responsive furniture store website using **HTML, CSS, JavaScript**.
-
-* 🏠 Elegant and clean homepage
-* 🛋️ 3×3 Product Grid Display
-* 🧾 Order Management System
-* 🖼 Product Preview Page
-* 💳 Checkout Flow (Upcoming)
-
----
-
 ## 🏆 Trophies & Achievements
 
 <p align="center">
