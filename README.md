@@ -10,12 +10,15 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
+<!-- 🌟 Short Intro -->
+
 <p align="center">
   🎓 Third-Year <b>Computer Science and Business Systems</b> Student <br>
   💻 Passionate about building efficient, scalable, and user-focused software solutions. <br>
-  🚀 Aiming to blend <b>technology</b>.
+  🚀 Aiming to blend <b>technology</b>
 </p>
 
+---
 
 ## 🌱 Currently Learning
 
@@ -23,10 +26,10 @@
 * Data Structures & Algorithms
 * Backend Development with Python
 * Database Management Systems
-* Cloud Basics
 * React.js
-* Express.js
+* express.js
 
+---
 
 ## 🧠 About Me
 
@@ -36,6 +39,7 @@
 * 🧩 Strong problem-solving mindset
 * 🎯 Consistency is my superpower
 
+---
 
 ## 💻 Tech Stack
 
@@ -57,9 +61,12 @@
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge\&logo=postman\&logoColor=white)
 
+---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 ### 🪑 **Furniture Website** (Ongoing)
 
@@ -71,12 +78,49 @@ A modern, responsive furniture store website using **HTML, CSS, JavaScript**.
 * 🖼 Product Preview Page
 * 💳 Checkout Flow (Upcoming)
 
+---
+
+### 🏋️ **Gym Registration System** (Frontend Only)
+
+A clean and intuitive **Gym Registration UI** built using HTML, CSS.
+
+* 📄 Member registration form
+* 🧍 Responsive user-friendly design
+* ⚡ Built for smooth user onboarding
+* 🔧 Backend will be added soon
+
+---
+
+### 🌐 **Responsive Portfolio Website**
+
+A personal portfolio built with **HTML, CSS, JavaScript**, showcasing clean design and responsiveness.
+
+* 🧑‍💻 Fully responsive across all devices
+* 🎨 Smooth UI with modern styling
+* 📌 Sections: Home, Skills, Projects, Contact
+* 🚀 Performance-optimized structure
+
+---
+
+### 🪑 **Furniture Website** (Ongoing)
+
+A modern, responsive furniture store website using **HTML, CSS, JavaScript**.
+
+* 🏠 Elegant and clean homepage
+* 🛋️ 3×3 Product Grid Display
+* 🧾 Order Management System
+* 🖼 Product Preview Page
+* 💳 Checkout Flow (Upcoming)
+
+---
+
 ## 🏆 Trophies & Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jegan-005&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
+---
 
 ## ⚙️ GitHub Analytics
 
@@ -93,6 +137,7 @@ A modern, responsive furniture store website using **HTML, CSS, JavaScript**.
   <img src="https://komarev.com/ghpvc/?username=Jegan-005&style=for-the-badge&color=brightgreen" />
 </p>
 
+---
 
 ## 🔥 Highlights
 
@@ -100,6 +145,7 @@ A modern, responsive furniture store website using **HTML, CSS, JavaScript**.
 * 🔧 Full-stack development journey
 * 📚 Continually improving coding skills
 * 🧠 Logical thinker & problem solver
+* 💪 Balancing UPSC aspirations with tech growth
 
 
 ## 📫 Connect With Me
